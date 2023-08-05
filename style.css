@@ -1,0 +1,25 @@
+/* div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    transition: all 0.4s ease;    
+}
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+} */
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+.changecolor{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
